@@ -1,0 +1,8 @@
+Running Ahorn via Olympus.
+┌ Debug: Creating new cache for "/Users/AlexMoore/.local/share/Olympus-Ahorn/julia/share/julia/stdlib/v1.6/Pkg/Project.toml"
+└ @ Base loading.jl:225
+  Activating environment at `~/.local/share/Olympus-Ahorn/ahorn-env/Project.toml`
+┌ Debug: Creating new cache for "/Users/AlexMoore/.local/share/Olympus-Ahorn/ahorn-env/Project.toml"
+└ @ Base loading.jl:225
+┌ Debug: Creating new cache for "/Users/AlexMoore/.local/share/Olympus-Ahorn/ahorn-env/Manifest.toml"
+└ @ Base loading.jl:225
