@@ -1,0 +1,21 @@
+{
+    "BDFDB": true,
+    "ZeresPluginLibrary": true,
+    "ActivityIcons": true,
+    "AllCallTimeCounter": true,
+    "BetterAudioPlayer": true,
+    "BetterFolders": true,
+    "CallTimeCounter": true,
+    "CharCounter": true,
+    "FreeEmojis": true,
+    "GameActivityToggle": true,
+    "AppNotifications": true,
+    "PinDMs": true,
+    "PluginRepo": true,
+    "ReadAllNotificationsButton": true,
+    "ShowAllActivities": true,
+    "SpotifyControls": true,
+    "SpotifyListenAlong": true,
+    "ThemeRepo": true,
+    "TypingIndicator": true
+}

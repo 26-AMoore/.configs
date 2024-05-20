@@ -1,0 +1,40 @@
+{
+	"all": {
+		"general": {
+			"pinIcon": true,
+			"unreadAmount": true,
+			"channelAmount": true
+		},
+		"pinned": {
+			"1016692290586157127": {
+				"guildList": {
+					"1025872092283011153": 2,
+					"1194776629382238299": 1,
+					"1099481484320059423": 0
+				}
+			}
+		},
+		"preCategories": {
+			"friends": {
+				"enabled": false,
+				"collapsed": false
+			},
+			"blocked": {
+				"enabled": false,
+				"collapsed": false
+			},
+			"bots": {
+				"enabled": false,
+				"collapsed": false
+			},
+			"groups": {
+				"enabled": false,
+				"collapsed": false
+			}
+		},
+		"recentOrder": {
+			"channelList": false,
+			"guildList": false
+		}
+	}
+}

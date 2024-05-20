@@ -1,0 +1,18 @@
+{
+	"all": {
+		"cachedState": {
+			"date": "2024-05-18T13:25:33.706Z",
+			"value": true
+		},
+		"general": {
+			"showButton": true,
+			"showItem": false,
+			"playEnable": true,
+			"playDisable": true
+		},
+		"selections": {
+			"enableSound": "stream_started",
+			"disableSound": "stream_ended"
+		}
+	}
+}
